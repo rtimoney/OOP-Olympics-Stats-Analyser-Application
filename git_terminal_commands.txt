@@ -1,0 +1,8 @@
+cd /c/users/ronan/downloads
+git clone git@github.com:rtimoney/OOP-Olympics-Stats-Analyser-Application.git
+
+cd /c/users/ronan/downloads/OOP-Olympics-Stats-Analyser-Application
+git init -b main
+git add .
+git commit -m "First upload 15th July 2023 - Ronan"
+git push 
